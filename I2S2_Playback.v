@@ -1,5 +1,5 @@
 module I2S2_PLAYBACK(
-    input MCLK, // 22.591MHz
+    input MCLK, // 22.579MHz
     output SCLK, // 8 Periods of MCLK
     output LRCK,  // 512 Periods of MCLK Right-Justified
 
